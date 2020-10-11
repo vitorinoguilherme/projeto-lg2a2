@@ -5,7 +5,6 @@ import java.util.List;
 public class Produto {
     private String nomeProd;
     private Double valorUnitario;
-    private List<Item> itens;
 
     public Produto(String nomeProd, Double valorUnitario) {
         this.setNomeProd(nomeProd);

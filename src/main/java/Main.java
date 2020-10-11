@@ -11,7 +11,7 @@ public class Main {
         Produto prod1 = new Produto("Refrigerante Cola", 10.00);
 
         // Cliente
-        Cliente cliente = new Cliente("47491594840");
+        Cliente cliente = new Cliente("1111111111");
 
         // Cliente Numero Pedido
         Pedido pedido = new Pedido(cliente, 11);
