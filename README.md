@@ -1,5 +1,5 @@
 #Gerenciar pedidos em um aplicativo de comida
-![alt text](UML%20-%20projeto%20LG2A2.png)
+![alt text](UML%20-Projeto%20LG2A2.png)
 **Regras básicas**
 
 Um pedido está relacionado a apenas um cliente e agrega um conjunto de itens  
